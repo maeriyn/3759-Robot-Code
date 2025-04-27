@@ -31,14 +31,5 @@ pros make
 pros upload
 ```
 
-## Project Features
-
-[Add description of your robot's key features and functionality]
-
-## Contributing
-
-[Add contribution guidelines if applicable]
-
-## License
-
-[Add license information]
+## Contributers
+Martin Pan and Pranav Patlola
